@@ -1,0 +1,30 @@
+{
+  "name": "stringable",
+  "version": "1.0.0",
+  "description": "A tiny library handling abilities",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGAdams/stringable.git"
+  },
+  "keywords": [
+    "Abilities",
+    "Permissions"
+  ],
+  "author": "EG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EGAdams/stringable/issues"
+  },
+  "homepage": "https://github.com/EGAdams/stringable#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3"
+  }
+}
